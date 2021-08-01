@@ -132,7 +132,7 @@ let users = [
     },{
         name    : 'Yesmin Sima',
         age     : 27,
-        gender  : 'Male',
+        gender  : 'Female',
         location: 'Uttara',
         cell    : '01342173492',
         photo   : '4.jpg',
