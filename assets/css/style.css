@@ -34,7 +34,7 @@ input[type="submit"]  {
 	width: 100%;
 	text-align: center;
 }
-.slider{
+/* .slider{
 	position: relative; 
     height: 500px;
     width: 100%;
@@ -42,7 +42,7 @@ input[type="submit"]  {
 	background-image: url('/slider.jpg');
 	background-size: cover;
 	
-}
+} */
 .slider-content img{
 	border: 10px solid #fff;
 	border-radius: 50%;
